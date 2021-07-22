@@ -3,3 +3,6 @@
 * :sunglasses: I have done my Bachelor of Technology in Computer Science and Engineering.
 * :innocent: I have successfully completed various web development projects as a freelancer
 * :raising_hand: I am looking forward to learn more technologies
+<hr style="border:2px solid gray"> </hr>
+
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="1000" height="500" />
