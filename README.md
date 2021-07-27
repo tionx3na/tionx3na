@@ -4,7 +4,7 @@
 
 <img src="https://s6.gifyu.com/images/Arun-babu.gif" width="1000" height="500" />
 
-Hello, I am Arun, I live in India and I am a gradute in Computer Science and Engineering of 2016-2020 batch under APJ Abdul Kalam Technological University, Kerala. I have successfully completed various web development projects as a freelancer and I am looking forward to expanding my horizons into new and various fields of computer engineering. I have also been certified as Ethical Hacker by EC-Council by clearing CEH exam on 2021.
+Hello, I am Arun, I live in India and I am a gradute in Computer Science and Engineering of 2016-2020 batch under APJ Abdul Kalam Technological University, Kerala. I have successfully completed various web development projects as a freelancer and I am looking forward to expanding my horizons into new and various fields of computer engineering. I have also been certified as Ethical Hacker by EC-Council on clearing CEH exam on 2021.
 
 <hr>
 
