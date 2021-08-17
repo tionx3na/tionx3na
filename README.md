@@ -2,7 +2,7 @@
 <h1 align="center">Hey There! <img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" width="40" height="40" /> I'm Arun Babu</h1>
 <h3 align="center"><i>I am a freelancer looking for expanding my knowledge on all things computer</i></h3>
 
-<img src="https://s6.gifyu.com/images/Arun-babu.gif" width="1000" height="500" />
+<img src="https://github.com/tionx3na/tionx3na/blob/main/Arun%20babu.gif" width="1000" height="500" />
 
 Hello, I am Arun, I live in India and I am a gradute in Computer Science and Engineering of 2016-2020 batch under APJ Abdul Kalam Technological University, Kerala. I have successfully completed various web development projects as a freelancer and I am looking forward to expanding my horizons into new and various fields of computer engineering. I have also been certified as Ethical Hacker by EC-Council on clearing CEH exam on 2021.
 
