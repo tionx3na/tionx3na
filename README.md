@@ -20,7 +20,7 @@ Hello, I am Arun, I live in India and I am a gradute in Computer Science and Eng
 </p>
 <br>
 
-<p align="center">🌱 I’m currently learning <b>Blockchain</b> <br> <br> 📫 How to reach me <i>1runx3na@gmail.com<i> <br> </p>
+<p align="center">🌱 I’m currently learning <b>Blockchain.</b> <br> <br> 📫 How to reach me <i>1runx3na@gmail.com<i> <br> </p>
 
 <br>
   
