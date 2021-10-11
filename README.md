@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tionx3na&label=Profile%20views&color=0e75b6&style=flat" alt="tionx3na" /> </p>
-<h1 align="center">Hey There! <img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" width="40" height="40" /> I'm Arun Babu</h1>
+<h1 align="center">Hey There! <img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" width="40" height="40" /> I'm Arun Babu...</h1>
 <h3 align="center"><i>I am a freelancer looking for expanding my knowledge on all things computer</i></h3>
 
 <img src="https://github.com/tionx3na/tionx3na/blob/main/Arun%20babu.gif" width="1000" height="500" />
